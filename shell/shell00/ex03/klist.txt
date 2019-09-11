@@ -1,0 +1,7 @@
+Credentials cache: API:3416E906-CF3F-461A-B272-8E8DEB7E4B2B
+        Principal: bfontain@42.FR
+
+  Issued                Expires               Principal
+Aug 27 17:30:53 2019  Sep  3 17:30:53 2019  krbtgt/42.FR@42.FR
+Aug 27 17:30:54 2019  Sep  3 17:30:53 2019  ldap/ldap-proxy.42.fr@42.FR
+Aug 27 17:30:54 2019  Sep  3 17:30:53 2019  HTTP/student-storage-1.42.fr@42.FR
